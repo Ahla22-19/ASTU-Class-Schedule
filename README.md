@@ -92,9 +92,9 @@ astu_schedule.exe
 👥 Developers
 
 · Afomiya Tedla
-· Ahilam Zeynu
+· Ahlam Zeynu
 · Meklit Abeje
-· Sara D.
+· Sara
 · Rahawa Getachewu
 
 ---
