@@ -1,4 +1,4 @@
-ASTU Class Schedule Viewer
+# ASTU Class Schedule Viewer
 
 A C++ console application for viewing freshman class schedules at Adama Science and Technology University (2016 academic year).
 
