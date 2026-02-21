@@ -1,52 +1,53 @@
 # ASTU Class Schedule Viewer
 
-A C++ console application for viewing freshman class schedules at Adama Science and Technology University (2016 academic year).
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ---
 
-📌 Overview
+## 🌟 Description
 
-This program allows students to quickly access their weekly class schedules by selecting their school and section. It serves as a simple, offline alternative to checking timetables manually.
-
-Supported Schools:
-
-· 🏛️ Pre-Engineering — Sections 1–42
-· 🔬 Applied Science — Sections 1–14
+A C++ console application for viewing freshman class schedules at **Adama Science and Technology University** (2016 academic year). This program allows students to quickly access their weekly class schedules by selecting their school and section. It serves as a simple, offline alternative to checking timetables manually.
 
 ---
 
-✨ Features
+## 🏫 Supported Schools
 
-· Interactive school and section selection
-· Formatted table display for each section
-· Input validation for section ranges
-· Developer credits display
-· Lightweight and runs entirely in the terminal
+- 🏛️ **Pre-Engineering** — Sections 1–42
+- 🔬 **Applied Science** — Sections 1–14
 
 ---
 
-🛠️ Requirements
+## ✨ Features
 
-· C++ compiler (supports C++98 or later)
-· Terminal / Command Prompt
+- Interactive school and section selection
+- Formatted table display for each section
+- Input validation for section ranges
+- Developer credits display
+- Lightweight and runs entirely in the terminal
 
 ---
 
-🚀 Compilation & Execution
+## 🛠️ Requirements
 
-Compile:
+- C++ compiler (supports C++98 or later)
+- Terminal / Command Prompt
 
+---
+
+## 🚀 Compilation & Execution
+
+**Compile:**
 ```bash
 g++ astu_schedule.cpp -o astu_schedule
 ```
 
-Run:
+**Run:**
 
 ```bash
 ./astu_schedule
 ```
 
-Windows (MinGW):
+**Windows (MinGW):**
 
 ```bash
 g++ astu_schedule.cpp -o astu_schedule.exe
@@ -54,18 +55,18 @@ astu_schedule.exe
 ```
 
 ---
+## 📖 How to Use
 
-📖 How to Use
-
-1. Launch the program.
-2. Enter 1 for Pre-Engineering or 2 for Applied Science.
-3. Enter your section number when prompted.
-4. Your schedule will be displayed in a table.
-5. Developer credits appear at the bottom.
+1. Launch the program
+2. Enter **1** for Pre-Engineering or **2** for Applied Science
+3. Enter your section number when prompted
+4. Your schedule will be displayed in a table
+5. Developer credits appear at the bottom
 
 ---
 
-🧪 Example
+## 🧪 Example
+
 
 ```
 ********************************************************************
@@ -89,25 +90,55 @@ astu_schedule.exe
 
 ---
 
-👥 Developers
-
-· Afomiya Tedla
-· Ahlam Zeynu
-· Meklit Abeje
-· Sara
-· Rahawa Getachewu
 
 ---
 
-📄 License
+## 👥 Developers
 
-This project is for educational purposes and was created as part of a university programming assignment.
+- Afomiya Tedla
+- Ahlam Zeynu
+- Meklit Abeje
+- Sara
+- Rahawa Getachewu
 
 ---
 
-📬 Contact
+## 👤 Author
+
+**Ahlam Zeynu** – Contributor
+🔗 **GitHub:** [@Ahla22-19](https://github.com/Ahla22-19)
+
+---
+
+## 📅 Year
+
+**2016**
+
+---
+
+## ⭐ Show Your Support
+
+If you find this project useful, please consider:
+- ⭐ **Starring the repository**
+- 🍴 **Forking** to add more sections or features
+
+---
+
+## 📬 Contact
 
 For questions or contributions, please reach out to any of the developers listed above.
+
+**Ahlam Zeynu** – Contributor
+- 📧 Email: [zeynuahlam@gmail.com](mailto:zeynuahlam@gmail.com)
+- 💻 GitHub: [@Ahla22-19](https://github.com/Ahla22-19)
+
+**Project Link:** [https://github.com/Ahla22-19/astu-schedule-viewer](https://github.com/Ahla22-19/astu-schedule-viewer)
+
+---
+
+## 📄 License
+
+This project is for **educational purposes** and was created as part of a university programming assignment.
 
 ---
 
